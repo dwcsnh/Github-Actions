@@ -27,6 +27,7 @@ const config: Configuration = {
     password: envString('DB_PASS', ''),
   },
 };
+// bla bla bla
 
 export { config };
 export type { Configuration };
